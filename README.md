@@ -1,8 +1,8 @@
 # COVID 19 Update Tracker
 
-A Powerfull COVID Tracker for Tracing Activies, Including Symtoms Checkers and Immunity Booster Suggestions pages.
+* A Powerfull COVID Tracker for Tracing Activies, Including Symtoms Checkers and Immunity Booster Suggestions pages.
 
-The aim of the app is to give latest numerical data of Covid19 Cases at fingertips.
+* The aim of the app is to give latest numerical data of Covid19 Cases at fingertips.
 
 ## Snapshots
 * <img src="info/Snapshots/india.jpg" height="400">  <img src="info/Snapshots/global.jpg" height="400"> <img src="info/Snapshots/symptoms.jpg" height="400"> 
