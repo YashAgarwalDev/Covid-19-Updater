@@ -11,7 +11,7 @@
 
 
 ### Information
-* A application which contains widgets displaying total cases enrolled, death toll, recovered cases, and net active cases at present. It displays information regarding every states on this criteria in particular.
+* An application which contains widgets displaying total cases enrolled, death toll, recovered cases, and net active cases at present. It displays information regarding every states on this criteria in particular.
 * The basic data source that retrieve information which is to be displayed is the api which provides latest and up to date information.This online source updates with all legal declaration and hence provides the most recent data statics till date.
 The main problem before considering any information is to check the date of data being uploaded and hence many a times users are deprived of most recent facts. With this application user can scroll through different states and for a demo  the on click event gives widget for a particular state and a scroll down list displaying numeric data regionwise.
 
