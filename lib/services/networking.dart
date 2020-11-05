@@ -14,14 +14,14 @@ class NetworkHelper {
   }
 
   Future getNationData() {
-    return getData('https://api.covid19india.org/data.json');
+    return getData('');
   }
 
   Future getDistrictData() {
-    return getData('https://api.covid19india.org/v2/state_district_wise.json');
+    return getData('');
   }
 
   Future getGlobalData() {
-    return getData('https://api.covid19api.com/summary');
+    return getData('');
   }
 }

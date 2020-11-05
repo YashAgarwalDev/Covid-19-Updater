@@ -1,9 +1,9 @@
-import 'package:covid19updates/data/app_start.dart';
-import 'package:covid19updates/screens/nation_screen.dart';
-import 'package:covid19updates/screens/show_msg.dart';
-import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'package:connectivity/connectivity.dart';
+import 'package:covid19updates/data/app_start.dart'
+import 'package:covid19updates/screens/nation_screen.dart'
+import 'package:covid19updates/screens/show_msg.dart'
+import 'package:flutter/material.dart'
+import 'package:provider/provider.dart'
+import 'package:connectivity/connectivity.dart'
 
 void main() => runApp(MyApp());
 
@@ -32,9 +32,9 @@ class _MyAppState extends State<MyApp> {
 
   @override
   void initState() {
-    super.initState();
-    _start = _getData();
-    checkConnection();
+    super.initState()
+    _start = _getData()
+    checkConnection()
   }
 
   @override
