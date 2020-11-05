@@ -51,7 +51,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-This Project is just for only Educational purpose only for learning new programming languages.and just uploading files only for helping any one.I'm not responsible of any kind of misuse and some other cases.
+*This Project is just for only Educational purpose only for learning new programming languages.and just uploading files only for helping any one.I'm not responsible of any kind of misuse and some other cases.
 This is only for personal use only not for releasing.
 
-Stay Safe and Stay Secure.
+**Stay Safe and Stay Secure.
