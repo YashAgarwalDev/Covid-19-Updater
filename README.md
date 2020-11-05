@@ -7,8 +7,8 @@ The aim of the app is to give latest numerical data of Covid19 Cases at fingerti
 ## Snapshots
 * <img src="info/Snapshots/india.jpg" height="400">  <img src="info/Snapshots/global.jpg" height="400"> 
 * <img src="info/Snapshots/prevention.jpg" height="400"> <img src="info/Snapshots/symptoms.jpg" height="400"> 
-* <img src="info/Snapshots/boost immunity.jpg" height="400"> <img src="info/Snapshots/splash screen.jpg" height="400">
-* <img src="info/Snapshots/loading.jpg" height="400">
+* <img src="info/Snapshots/boost immunity.jpg" height="400"> <img src="info/Snapshots/splash screen.jpg" height="400"> <img src="info/Snapshots/loading.jpg" height="400">
+
 
 ### Information
 * A application which contains widgets displaying total cases enrolled, death toll, recovered cases, and net active cases at present. It displays information regarding every states on this criteria in particular.
